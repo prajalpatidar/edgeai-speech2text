@@ -1,0 +1,5 @@
+{
+  "name": "EmbeddedZipformerForge",
+  "description": "A developer dashboard for configuring, training, and exporting Tiny Zipformer models for resource-constrained embedded devices (200MB RAM limit).",
+  "requestFramePermissions": []
+}
